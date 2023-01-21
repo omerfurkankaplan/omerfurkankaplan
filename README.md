@@ -24,12 +24,16 @@
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="45" height="55"/>
+        <img src="[https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)" alt="laravel" width="45" height="55"/>
+
+
 </p>
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> Github İstatistiklerim:
 ![İstatistiklerim:](https://github-readme-stats.vercel.app/api?username=omerfurkankaplan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Diller:](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfurkankaplan&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![Diller:](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfurkankaplan&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/omerfurkankaplan/github-readme-stats)
 [![Github:](https://github-readme-streak-stats.herokuapp.com/?user=omerfurkankaplan&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
