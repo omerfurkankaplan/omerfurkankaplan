@@ -27,7 +27,7 @@
 </p>
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> Github İstatistiklerim:
 ![İstatistiklerim:](https://github-readme-stats.vercel.app/api?username=omerfurkankaplan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Diller:](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfurkankaplan&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![Github:](https://github-readme-streak-stats.herokuapp.com/?user=omerfurkankaplan&theme=dark)](https://git.io/streak-stats)
@@ -40,7 +40,7 @@
 
 ----->
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> SON BLOGLARIM
 <!-- BLOG-POST-LIST:START -->
 - [OSİ KATMANLARI](https://medium.com/@omerfurkankaplan/osi%CC%87-katmanlari-44a5bd4c1512)
 - [KABLO TÜRLERİ](https://medium.com/@omerfurkankaplan/kablo-t%C3%BCrleri-34f301fcafec)
@@ -55,8 +55,7 @@
 <!--
 • <i>A professional typist types fast and types great amount of words daily. If we measure this as distance, than it will become 12.6 miles a day for the fingers of the typist to cover each day.</i>
 <!--ENDS_HERE_QUOTE_README-->
-</a>
--->
+<!--</a>   -->
 ---
 <!--
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
